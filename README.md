@@ -1,4 +1,4 @@
-# EE202 Lab Reports
+# EE202: Circuit Theory
 📄 Lab reports for the EE202 Circuit Theory course at Bilkent University.
 
 🖥️🔌 The labs consist of two parts: Software circuit design on LTSpice and the circuit's hardware implementation.
